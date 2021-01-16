@@ -1,4 +1,5 @@
 # hello-world
 hello-world practice
 
-Hi Takuya
+My name is Takuya
+Hello!
